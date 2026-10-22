@@ -6,7 +6,7 @@ An "n8n alternative" search really has two answers. n8n, Zapier and Make run a f
 
 ## The list
 
-- **[Kortix](https://kortix.com)** is the open-source AI Operating System. Your agents, their skills, your company memory and every connector live in one git repo you own, and each session runs on its own cloud computer with an isolated sandbox and branch. Work reaches the default branch through a change request a person approves. Any model, your own keys, on Kortix Cloud, in your VPC, or on-prem. Self-hosting is free, and managed cloud is $40 per seat per month plus usage. More than 20,000 developers have starred [Kortix on GitHub](https://github.com/kortix-ai/suna).
+- **[Kortix](https://kortix.com)** is the open-source AI Operating System. Your agents, their skills, your company memory and every connector live in one git repo you own, and each session runs on its own cloud computer with an isolated sandbox and branch. Work reaches the default branch through a change request a person approves. Any model, your own keys, on Kortix Cloud, in your VPC, or on-prem. Self-hosting is free, and managed cloud runs on credits: the Free plan is $0 with 500 credits a month, and 5,000 credits a month costs $50. More than 20,000 developers have starred [Kortix on GitHub](https://github.com/kortix-ai/suna).
 
 - **[Windmill](https://www.windmill.dev)** is a code-first orchestration platform for internal software. It builds scripts, workflows, apps, agents and data pipelines on a self-hostable engine, and calls models through a provider or any OpenAI-compatible endpoint. It is open source under AGPLv3 and self-hosts with Docker or Kubernetes. Its pricing page lists a free self-hosted tier and an Enterprise tier from $120 per month.
 
@@ -34,7 +34,7 @@ The tool you are leaving, **[n8n](https://n8n.io)**, is a fair-code workflow aut
 | Your configuration | Files in a git repo you own | Workflows in the n8n editor | Zaps inside the product |
 | Model choice | Any model, your own keys | Any model provider | AI steps, bring your own model |
 | Approval | A change request a person approves | Human-in-the-loop nodes | Approval requests, in beta |
-| Price | Self-host free. Cloud $40 per seat per month plus usage | Free Community self-host. Cloud by executions | Free, then task-based tiers |
+| Price | Self-host free. Cloud $0 plan; 5,000 credits for $50 | Free Community self-host. Cloud by executions | Free, then task-based tiers |
 
 ## In this repo
 
