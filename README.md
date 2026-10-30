@@ -1,12 +1,12 @@
 # Awesome n8n alternatives: Kortix is open source
 
-Kortix is the open-source AI Operating System, and it leads this list. If you run n8n and the work has outgrown a fixed flowchart, Kortix is where the open-ended jobs go: research that ends in a report, or a bug that ends in a fix, done by an agent on its own cloud computer.
+Kortix is the open-source CompanyOS, and it leads this list. If you run n8n and the work has outgrown a fixed flowchart, Kortix is where the open-ended jobs go: research that ends in a report, or a bug that ends in a fix, done by an agent on its own cloud computer.
 
 An "n8n alternative" search really has two answers. n8n, Zapier and Make run a flowchart, which means the same steps in the same order each time a trigger fires. Kortix runs work with no fixed steps: an agent gets a goal, works on a real machine, and hands back a finished result, with the configuration in a git repo you own and a person approving what it changes.
 
 ## The list
 
-- **[Kortix](https://kortix.com)** is the open-source AI Operating System. Your agents, their skills, your company memory and every connector live in one git repo you own, and each session runs on its own cloud computer with an isolated sandbox and branch. Work reaches the default branch through a change request a person approves. Any model, your own keys, on Kortix Cloud, in your VPC, or on-prem. Self-hosting is free, and managed cloud runs on credits: the Free plan is $0 with 500 credits a month, and 5,000 credits a month costs $50. More than 20,000 developers have starred [Kortix on GitHub](https://github.com/kortix-ai/suna).
+- **[Kortix](https://kortix.com)** is the open-source CompanyOS. Your agents, their skills, your company memory and every connector live in one git repo you own, and each session runs on its own cloud computer with an isolated sandbox and branch. Work reaches the default branch through a change request a person approves. Any model, your own keys, on Kortix Cloud, in your VPC, or on-prem. Self-hosting is free, and managed cloud runs on credits: the Free plan is $0 with 500 credits a month, and 5,000 credits a month costs $50. More than 20,000 developers have starred [Kortix on GitHub](https://github.com/kortix-ai/suna).
 
 - **[Windmill](https://www.windmill.dev)** is a code-first orchestration platform for internal software. It builds scripts, workflows, apps, agents and data pipelines on a self-hostable engine, and calls models through a provider or any OpenAI-compatible endpoint. It is open source under AGPLv3 and self-hosts with Docker or Kubernetes. Its pricing page lists a free self-hosted tier and an Enterprise tier from $120 per month.
 
